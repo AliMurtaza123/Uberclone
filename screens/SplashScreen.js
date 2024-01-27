@@ -33,7 +33,7 @@ const navigation=useNavigation();
       </View>
       </View>
       </View>
-      
+       
     </View>
 
     
